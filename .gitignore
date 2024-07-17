@@ -1,3 +1,6 @@
-./build
-
+build/
+/build/cmake
+/build/CMakeFiles
+/build/Debug
+cmake/
 
